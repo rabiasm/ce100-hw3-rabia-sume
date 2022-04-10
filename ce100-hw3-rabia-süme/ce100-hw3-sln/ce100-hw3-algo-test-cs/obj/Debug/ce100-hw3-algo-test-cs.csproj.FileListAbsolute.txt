@@ -1,0 +1,17 @@
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\ce100-hw3-algo-test-cs.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\ce100-hw3-algo-test-cs.pdb
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\ce100-hw3-algo-lib-cs.pdb
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\obj\Debug\ce100-hw3-algo-test-cs.csproj.AssemblyReference.cache
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\obj\Debug\ce100-hw3-algo-test-cs.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\obj\Debug\ce100-hw3-algo-test-cs.csproj.CopyComplete
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\obj\Debug\ce100-hw3-algo-test-cs.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\obj\Debug\ce100-hw3-algo-test-cs.pdb

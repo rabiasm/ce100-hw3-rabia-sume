@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
+  <Summary numSequencePoints="106" visitedSequencePoints="106" numBranchPoints="32" visitedBranchPoints="31" sequenceCoverage="100" branchCoverage="96.88" maxCyclomaticComplexity="10" minCyclomaticComplexity="1" maxCrapScore="10" minCrapScore="2" visitedClasses="2" numClasses="2" visitedMethods="8" numMethods="8" />
+  <Modules>
+    <Module hash="16-66-A1-86-A3-C8-A7-1F-79-AE-53-47-72-D9-2F-56-07-9A-79-CE">
+      <Summary numSequencePoints="45" visitedSequencePoints="45" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="0" maxCrapScore="2" minCrapScore="0" visitedClasses="1" numClasses="1" visitedMethods="6" numMethods="6" />
+      <ModulePath>C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\fine-code-coverage\build-output\ce100-hw3-algo-test-cs.dll</ModulePath>
+      <ModuleTime>2022-04-10T17:57:53.7835919Z</ModuleTime>
+      <ModuleName>ce100-hw3-algo-test-cs</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\UnitTest1.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="45" visitedSequencePoints="45" numBranchPoints="6" visitedBranchPoints="6" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="6" numMethods="6" />
+          <FullName>ce100_hw3_algo_test_cs.UnitTest1</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::LongestCommonSubsquence_TestMethod1()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="2" ordinal="1" offset="1" sl="14" sc="13" el="14" ec="46" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="3" ordinal="2" offset="7" sl="15" sc="13" el="15" ec="45" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="4" ordinal="3" offset="13" sl="18" sc="13" el="18" ec="31" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="5" ordinal="4" offset="20" sl="19" sc="13" el="19" ec="31" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="6" ordinal="5" offset="27" sl="20" sc="13" el="20" ec="74" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="7" ordinal="6" offset="38" sl="21" sc="13" el="21" ec="38" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="8" ordinal="7" offset="45" sl="22" sc="13" el="22" ec="47" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="9" ordinal="8" offset="55" sl="23" sc="9" el="23" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="1" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::LongestCommonSubsquence_TestMethod2()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="10" ordinal="0" offset="0" sl="28" sc="9" el="28" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="11" ordinal="1" offset="1" sl="29" sc="13" el="29" ec="53" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="12" ordinal="2" offset="7" sl="30" sc="13" el="30" ec="56" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="13" ordinal="3" offset="13" sl="33" sc="13" el="33" ec="31" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="14" ordinal="4" offset="20" sl="34" sc="13" el="34" ec="31" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="15" ordinal="5" offset="27" sl="35" sc="13" el="35" ec="74" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="16" ordinal="6" offset="38" sl="36" sc="13" el="36" ec="40" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="17" ordinal="7" offset="45" sl="37" sc="13" el="37" ec="47" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="18" ordinal="8" offset="55" sl="38" sc="9" el="38" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="10" ordinal="0" offset="0" sl="28" sc="9" el="28" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="9" visitedSequencePoints="9" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::LongestCommonSubsquence_TestMethod3()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="19" ordinal="0" offset="0" sl="42" sc="9" el="42" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="20" ordinal="1" offset="1" sl="43" sc="13" el="43" ec="34" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="21" ordinal="2" offset="7" sl="44" sc="13" el="44" ec="36" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="22" ordinal="3" offset="13" sl="47" sc="13" el="47" ec="31" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="23" ordinal="4" offset="20" sl="48" sc="13" el="48" ec="31" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="24" ordinal="5" offset="27" sl="49" sc="13" el="49" ec="74" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="25" ordinal="6" offset="38" sl="50" sc="13" el="50" ec="38" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="26" ordinal="7" offset="45" sl="51" sc="13" el="51" ec="47" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="27" ordinal="8" offset="55" sl="52" sc="9" el="52" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="19" ordinal="0" offset="0" sl="42" sc="9" el="42" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="6" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::MatrixChainOrder_TestMethod1()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="28" ordinal="0" offset="0" sl="56" sc="9" el="56" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="29" ordinal="1" offset="1" sl="57" sc="13" el="57" ec="58" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="30" ordinal="2" offset="19" sl="58" sc="13" el="58" ec="32" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="31" ordinal="3" offset="23" sl="59" sc="13" el="59" ec="62" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="32" ordinal="4" offset="34" sl="60" sc="13" el="60" ec="42" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="33" ordinal="5" offset="46" sl="61" sc="9" el="61" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="28" ordinal="0" offset="0" sl="56" sc="9" el="56" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="6" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::MatrixChainOrder_TestMethod2()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="34" ordinal="0" offset="0" sl="65" sc="9" el="65" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="35" ordinal="1" offset="1" sl="66" sc="13" el="66" ec="63" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="36" ordinal="2" offset="19" sl="67" sc="13" el="67" ec="32" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="37" ordinal="3" offset="23" sl="68" sc="13" el="68" ec="62" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="38" ordinal="4" offset="34" sl="69" sc="13" el="69" ec="45" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="39" ordinal="5" offset="46" sl="70" sc="9" el="70" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="34" ordinal="0" offset="0" sl="65" sc="9" el="65" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="6" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1" minCrapScore="1" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::MatrixChainOrder_TestMethod3()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="40" ordinal="0" offset="0" sl="74" sc="9" el="74" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="41" ordinal="1" offset="1" sl="75" sc="13" el="75" ec="60" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="42" ordinal="2" offset="19" sl="76" sc="13" el="76" ec="32" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="43" ordinal="3" offset="23" sl="77" sc="13" el="77" ec="62" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="44" ordinal="4" offset="34" sl="78" sc="13" el="78" ec="43" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="1" uspid="45" ordinal="5" offset="46" sl="79" sc="9" el="79" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="40" ordinal="0" offset="0" sl="74" sc="9" el="74" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_test_cs.UnitTest1::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="46" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module hash="3B-17-D4-81-C0-A3-DB-AE-E3-8F-4C-3F-AE-6A-3C-0B-B7-F8-0B-01">
+      <Summary numSequencePoints="61" visitedSequencePoints="61" numBranchPoints="26" visitedBranchPoints="25" sequenceCoverage="100" branchCoverage="96.15" maxCyclomaticComplexity="10" minCyclomaticComplexity="1" maxCrapScore="10" minCrapScore="2" visitedClasses="1" numClasses="1" visitedMethods="2" numMethods="2" />
+      <ModulePath>C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-test-cs\bin\Debug\fine-code-coverage\build-output\ce100-hw3-algo-lib-cs.dll</ModulePath>
+      <ModuleTime>2022-04-10T17:57:53.1760369Z</ModuleTime>
+      <ModuleName>ce100-hw3-algo-lib-cs</ModuleName>
+      <Files>
+        <File uid="3" fullPath="C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\Class1.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="61" visitedSequencePoints="61" numBranchPoints="26" visitedBranchPoints="25" sequenceCoverage="100" branchCoverage="96.15" maxCyclomaticComplexity="10" minCyclomaticComplexity="1" maxCrapScore="10" minCrapScore="2" visitedClasses="1" numClasses="1" visitedMethods="2" numMethods="2" />
+          <FullName>ce100_hw3_algo_lib_cs.Class1</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="10" nPathComplexity="512" sequenceCoverage="100" branchCoverage="94.74" crapScore="10" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="46" visitedSequencePoints="46" numBranchPoints="19" visitedBranchPoints="18" sequenceCoverage="100" branchCoverage="94.74" maxCyclomaticComplexity="10" minCyclomaticComplexity="10" maxCrapScore="10" minCrapScore="10" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.String ce100_hw3_algo_lib_cs.Class1::LongestCommonSubsquence(System.String,System.String,System.Int32,System.Int32)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="3" uspid="47" ordinal="0" offset="0" sl="46" sc="9" el="46" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="3" uspid="48" ordinal="1" offset="1" sl="47" sc="13" el="47" ec="46" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="3" uspid="49" ordinal="2" offset="13" sl="53" sc="18" el="53" ec="27" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="52" uspid="50" ordinal="3" offset="21" sl="54" sc="13" el="54" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="52" uspid="51" ordinal="4" offset="22" sl="55" sc="22" el="55" ec="31" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1159" uspid="52" ordinal="5" offset="30" sl="56" sc="17" el="56" ec="18" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1159" uspid="53" ordinal="6" offset="31" sl="57" sc="21" el="57" ec="42" bec="4" bev="4" fileid="3" />
+                <SequencePoint vc="105" uspid="54" ordinal="7" offset="49" sl="58" sc="21" el="58" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="105" uspid="55" ordinal="8" offset="50" sl="59" sc="25" el="59" ec="37" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="105" uspid="56" ordinal="9" offset="61" sl="60" sc="21" el="60" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1054" uspid="57" ordinal="10" offset="64" sl="61" sc="26" el="61" ec="51" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="59" uspid="58" ordinal="11" offset="92" sl="62" sc="21" el="62" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="59" uspid="59" ordinal="12" offset="93" sl="63" sc="25" el="63" ec="55" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="59" uspid="60" ordinal="13" offset="119" sl="64" sc="21" el="64" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="995" uspid="61" ordinal="14" offset="122" sl="66" sc="21" el="66" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="995" uspid="62" ordinal="15" offset="123" sl="67" sc="25" el="67" ec="70" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="995" uspid="63" ordinal="16" offset="162" sl="68" sc="21" el="68" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1159" uspid="64" ordinal="17" offset="163" sl="69" sc="17" el="69" ec="18" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1159" uspid="65" ordinal="18" offset="164" sl="55" sc="41" el="55" ec="44" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="1211" uspid="66" ordinal="19" offset="170" sl="55" sc="33" el="55" ec="39" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="52" uspid="67" ordinal="20" offset="187" sl="70" sc="13" el="70" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="52" uspid="68" ordinal="21" offset="188" sl="53" sc="37" el="53" ec="40" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="55" uspid="69" ordinal="22" offset="194" sl="53" sc="29" el="53" ec="35" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="3" uspid="70" ordinal="23" offset="211" sl="73" sc="13" el="73" ec="33" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="3" uspid="71" ordinal="24" offset="220" sl="78" sc="13" el="78" ec="39" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="3" uspid="72" ordinal="25" offset="226" sl="84" sc="13" el="84" ec="22" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="3" uspid="73" ordinal="26" offset="228" sl="84" sc="24" el="84" ec="29" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="77" uspid="74" ordinal="27" offset="233" sl="86" sc="13" el="86" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="77" uspid="75" ordinal="28" offset="234" sl="90" sc="17" el="90" ec="42" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="14" uspid="76" ordinal="29" offset="261" sl="91" sc="17" el="91" ec="18" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="14" uspid="77" ordinal="30" offset="262" sl="93" sc="21" el="93" ec="42" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="14" uspid="78" ordinal="31" offset="287" sl="96" sc="21" el="96" ec="25" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="14" uspid="79" ordinal="32" offset="291" sl="97" sc="21" el="97" ec="25" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="14" uspid="80" ordinal="33" offset="297" sl="98" sc="21" el="98" ec="29" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="14" uspid="81" ordinal="34" offset="301" sl="99" sc="17" el="99" ec="18" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="63" uspid="82" ordinal="35" offset="304" sl="103" sc="22" el="103" ec="52" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="24" uspid="83" ordinal="36" offset="334" sl="104" sc="17" el="104" ec="18" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="24" uspid="84" ordinal="37" offset="335" sl="104" sc="19" el="104" ec="23" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="24" uspid="85" ordinal="38" offset="339" sl="104" sc="24" el="104" ec="25" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="86" ordinal="39" offset="342" sl="106" sc="17" el="106" ec="18" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="87" ordinal="40" offset="343" sl="106" sc="19" el="106" ec="23" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="88" ordinal="41" offset="349" sl="106" sc="24" el="106" ec="25" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="77" uspid="89" ordinal="42" offset="350" sl="107" sc="13" el="107" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="80" uspid="90" ordinal="43" offset="351" sl="85" sc="13" el="85" ec="35" bec="4" bev="3" fileid="3" />
+                <SequencePoint vc="3" uspid="91" ordinal="44" offset="372" sl="108" sc="13" el="108" ec="24" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="3" uspid="92" ordinal="45" offset="377" sl="109" sc="9" el="109" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1103" uspid="93" ordinal="0" offset="33" sl="57" path="0" offsetend="35" fileid="3" />
+                <BranchPoint vc="56" uspid="94" ordinal="1" offset="33" sl="57" path="1" offsetend="42" fileid="3" />
+                <BranchPoint vc="105" uspid="95" ordinal="2" offset="47" sl="57" path="0" offsetend="49" fileid="3" />
+                <BranchPoint vc="1054" uspid="96" ordinal="3" offset="47" sl="57" path="1" offsetend="64" fileid="3" />
+                <BranchPoint vc="59" uspid="97" ordinal="4" offset="90" sl="61" path="0" offsetend="92" fileid="3" />
+                <BranchPoint vc="995" uspid="98" ordinal="5" offset="90" sl="61" path="1" offsetend="122" fileid="3" />
+                <BranchPoint vc="52" uspid="99" ordinal="6" offset="182" sl="55" path="0" offsetend="187" fileid="3" />
+                <BranchPoint vc="1159" uspid="100" ordinal="7" offset="182" sl="55" path="1" offsetend="30" fileid="3" />
+                <BranchPoint vc="3" uspid="101" ordinal="8" offset="206" sl="53" path="0" offsetend="211" fileid="3" />
+                <BranchPoint vc="52" uspid="102" ordinal="9" offset="206" sl="53" path="1" offsetend="21" fileid="3" />
+                <BranchPoint vc="14" uspid="103" ordinal="10" offset="259" sl="90" path="0" offsetend="261" fileid="3" />
+                <BranchPoint vc="63" uspid="104" ordinal="11" offset="259" sl="90" path="1" offsetend="304" fileid="3" />
+                <BranchPoint vc="24" uspid="105" ordinal="12" offset="332" sl="103" path="0" offsetend="334" fileid="3" />
+                <BranchPoint vc="39" uspid="106" ordinal="13" offset="332" sl="103" path="1" offsetend="342" fileid="3" />
+                <BranchPoint vc="80" uspid="107" ordinal="14" offset="353" sl="85" path="0" offsetend="355" fileid="3" />
+                <BranchPoint vc="0" uspid="108" ordinal="15" offset="353" sl="85" path="1" offsetend="362" fileid="3" />
+                <BranchPoint vc="3" uspid="109" ordinal="16" offset="367" sl="85" path="0" offsetend="372" fileid="3" />
+                <BranchPoint vc="77" uspid="110" ordinal="17" offset="367" sl="85" path="1" offsetend="233" fileid="3" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="3" uspid="47" ordinal="0" offset="0" sl="46" sc="9" el="46" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="4" nPathComplexity="8" sequenceCoverage="100" branchCoverage="100" crapScore="4" isConstructor="false" isStatic="true" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="15" visitedSequencePoints="15" numBranchPoints="7" visitedBranchPoints="7" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="4" minCyclomaticComplexity="4" maxCrapScore="4" minCrapScore="4" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Int32 ce100_hw3_algo_lib_cs.Class1::MatrixChainOrder(System.Int32[],System.Int32,System.Int32)</Name>
+              <FileRef uid="3" />
+              <SequencePoints>
+                <SequencePoint vc="81" uspid="111" ordinal="0" offset="0" sl="128" sc="9" el="128" ec="10" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="81" uspid="112" ordinal="1" offset="1" sl="130" sc="13" el="130" ec="24" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="54" uspid="113" ordinal="2" offset="9" sl="131" sc="17" el="131" ec="26" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="27" uspid="114" ordinal="3" offset="13" sl="133" sc="13" el="133" ec="54" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="27" uspid="115" ordinal="4" offset="25" sl="134" sc="13" el="134" ec="38" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="27" uspid="116" ordinal="5" offset="38" sl="140" sc="18" el="140" ec="27" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="117" ordinal="6" offset="42" sl="141" sc="13" el="141" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="118" ordinal="7" offset="43" sl="142" sc="17" el="144" ec="54" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="119" ordinal="8" offset="78" sl="146" sc="17" el="146" ec="39" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="36" uspid="120" ordinal="9" offset="96" sl="147" sc="21" el="147" ec="39" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="121" ordinal="10" offset="106" sl="148" sc="13" el="148" ec="14" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="39" uspid="122" ordinal="11" offset="107" sl="140" sc="36" el="140" ec="39" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="66" uspid="123" ordinal="12" offset="111" sl="140" sc="29" el="140" ec="34" bec="2" bev="2" fileid="3" />
+                <SequencePoint vc="27" uspid="124" ordinal="13" offset="121" sl="151" sc="13" el="151" ec="30" bec="0" bev="0" fileid="3" />
+                <SequencePoint vc="81" uspid="125" ordinal="14" offset="132" sl="152" sc="9" el="152" ec="10" bec="0" bev="0" fileid="3" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="54" uspid="126" ordinal="0" offset="7" sl="130" path="0" offsetend="9" fileid="3" />
+                <BranchPoint vc="27" uspid="127" ordinal="1" offset="7" sl="130" path="1" offsetend="13" fileid="3" />
+                <BranchPoint vc="36" uspid="128" ordinal="2" offset="94" sl="146" path="0" offsetend="96" fileid="3" />
+                <BranchPoint vc="3" uspid="129" ordinal="3" offset="94" sl="146" path="1" offsetend="106" fileid="3" />
+                <BranchPoint vc="27" uspid="130" ordinal="4" offset="119" sl="140" path="0" offsetend="121" fileid="3" />
+                <BranchPoint vc="39" uspid="131" ordinal="5" offset="119" sl="140" path="1" offsetend="42" fileid="3" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="81" uspid="111" ordinal="0" offset="0" sl="128" sc="9" el="128" ec="10" bec="0" bev="0" fileid="3" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void ce100_hw3_algo_lib_cs.Class1::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="132" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

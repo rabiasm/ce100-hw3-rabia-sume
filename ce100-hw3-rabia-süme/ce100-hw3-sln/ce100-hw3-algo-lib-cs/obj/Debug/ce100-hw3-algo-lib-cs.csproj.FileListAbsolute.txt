@@ -1,0 +1,6 @@
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\bin\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\bin\Debug\ce100-hw3-algo-lib-cs.pdb
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\Lenova\Desktop\ce100-hw3-rabia-süme\ce100-hw3-sln\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.pdb
